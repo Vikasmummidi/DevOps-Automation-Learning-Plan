@@ -1,0 +1,11 @@
+✅ Task List
+
+View all files and their permissions.
+
+Change permissions of permissions_demo.txt to 600.
+
+Make env_info.sh executable.
+
+Create a symbolic link to env_info.sh.
+
+Run both scripts and observe output.
