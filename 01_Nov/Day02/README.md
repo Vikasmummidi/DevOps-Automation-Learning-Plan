@@ -27,7 +27,10 @@ ps -eo pid,comm,%cpu --sort=-%cpu | head -n 6 >> "$LOG_FILE"
 
 echo "Log saved to $LOG_FILE"
 
-# 🧠 Understanding `grep` Commands with Examples
+
+
+
+#🧠 Understanding `grep` Commands with Examples
 
 Assume we have saved the following lines in a file called **a_file.txt**:
 
@@ -137,7 +140,7 @@ Here, `"machine"` is matched, and the next two lines (`boots` and `bungie`) are 
 
 ---
 
-✅ **Summary Table:**
+## ✅ Summary Table
 
 | Command | Description | Example Output (short) |
 |----------|--------------|------------------------|
@@ -155,7 +158,8 @@ You can combine options too, e.g.:
 ```bash
 grep -in "boo" a_file.txt
 ```
-This prints line numbers and ignores case while searching for "boo".
+
+
 # 🦾 Understanding AWK — A Powerful Text Processing Tool
 
 ## 🔹 Overview
