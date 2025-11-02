@@ -26,11 +26,9 @@ echo "Top 5 CPU Processes - $(date)" > "$LOG_FILE"
 ps -eo pid,comm,%cpu --sort=-%cpu | head -n 6 >> "$LOG_FILE"
 
 echo "Log saved to $LOG_FILE"
+```
 
-
-
-
-#🧠 Understanding `grep` Commands with Examples
+##🧠 Understanding `grep` Commands with Examples
 
 Assume we have saved the following lines in a file called **a_file.txt**:
 
