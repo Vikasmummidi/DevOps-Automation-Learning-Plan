@@ -1,0 +1,2 @@
+ls: cannot access /not/here: No such file or directory
+ls: cannot open directory /root: Permission denied

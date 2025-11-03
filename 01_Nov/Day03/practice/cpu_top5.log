@@ -1,0 +1,6 @@
+  PID COMMAND         %CPU
+    1 systemd          0.0
+    2 kthreadd         0.0
+    3 rcu_gp           0.0
+    4 rcu_par_gp       0.0
+    6 kworker/0:0H-ev  0.0
