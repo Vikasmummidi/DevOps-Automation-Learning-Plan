@@ -1,0 +1,7 @@
+{
+  "status": "OK",
+  "instances": [
+    {"id": "i-1", "cpu": 72},
+    {"id": "i-2", "cpu": 84}
+  ]
+}

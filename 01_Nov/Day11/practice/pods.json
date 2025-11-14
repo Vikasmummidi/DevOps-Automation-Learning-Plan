@@ -1,0 +1,43 @@
+{
+  "apiVersion": "v1",
+  "kind": "PodList",
+  "items": [
+    {
+      "metadata": {
+        "name": "frontend-5d8f4c9b7f-ab123",
+        "namespace": "default"
+      },
+      "status": {
+        "phase": "Running"
+      }
+    },
+    {
+      "metadata": {
+        "name": "backend-6c9d87f77d-xy789",
+        "namespace": "default"
+      },
+      "status": {
+        "phase": "Pending"
+      }
+    },
+    {
+      "metadata": {
+        "name": "db-0",
+        "namespace": "default"
+      },
+      "status": {
+        "phase": "CrashLoopBackOff"
+      }
+    },
+    {
+      "metadata": {
+        "name": "cache-1",
+        "namespace": "default"
+      },
+      "status": {
+        "phase": "Running"
+      }
+    }
+  ]
+}
+
