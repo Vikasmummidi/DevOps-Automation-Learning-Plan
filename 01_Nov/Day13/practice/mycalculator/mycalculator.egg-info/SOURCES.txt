@@ -1,0 +1,7 @@
+setup.py
+mycalculator/__init__.py
+mycalculator/operations.py
+mycalculator.egg-info/PKG-INFO
+mycalculator.egg-info/SOURCES.txt
+mycalculator.egg-info/dependency_links.txt
+mycalculator.egg-info/top_level.txt
