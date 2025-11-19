@@ -1,0 +1,5 @@
+2025-11-17 07:54:25,228 - INFO - script started
+2025-11-17 07:54:25,229 - INFO - script completed
+2025-11-17 07:56:23,233 - INFO - script started
+2025-11-17 07:56:23,233 - ERROR - Error reading file [Errno 2] No such file or directory: 'sample.txt'
+2025-11-17 07:56:23,233 - INFO - script completed
