@@ -1,0 +1,7 @@
+{
+  "path": "/",
+  "threshold": 70,
+  "email_alert": false,
+  "report_file": "report.json",
+  "log_file": "monitor.log"
+}

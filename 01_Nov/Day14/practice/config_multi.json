@@ -1,0 +1,9 @@
+{
+  "paths": [
+    { "path": "/", "threshold": 70 },
+    { "path": "/var", "threshold": 80 }
+  ],
+  "email_alert": false,
+  "report_file": "report_multi.json",
+  "log_file": "monitor_multi.log"
+}
